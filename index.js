@@ -1,5 +1,5 @@
 function genesis() {
-  return [];
+  return { title: "Genesis" };
 }
 
 module.exports = { genesis };
