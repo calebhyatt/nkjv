@@ -1,6 +1,6 @@
 {
   "name": "nkjv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NKJV Bible",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
     "nkjv"
   ],
   "author": "Caleb Hyatt <calebphyatt@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://calebhyatt.com/",
+  "repository": {
+    "url": "https://github.com/calebhyatt/nkjv"
+  }
 }
