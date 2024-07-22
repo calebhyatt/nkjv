@@ -1,6 +1,6 @@
 {
   "name": "nkjv",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NKJV Bible",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "homepage": "https://calebhyatt.com/",
   "repository": {
     "url": "https://github.com/calebhyatt/nkjv"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0"
   }
 }
